@@ -12,7 +12,7 @@ tasks = [
     {
         'id': 2,
         'title': 'Python Programming',
-        'description': 'Best Learning boog of Python and boost the skills', 
+        'description': 'Best Learning book of Python and boost the skills', 
         'done': False
     }
 ]
